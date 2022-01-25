@@ -1,0 +1,69 @@
+- what was planned for the period since last diary
+- what was finished
+- what were the main technical and non-technical obstacle and how they were overcome
+- what was not finished, why, how this affected overall progress
+- what is planned for next period
+
+Week 1
+Group formed. Group voted and decided on implementing project 4 - stock portfolio management. Discussed ways of implementing said project such as which software to use and what platform we would decide on.
+I was assigned as scrum master and jira page was created. We each individually came up with our own set of requirements to discuss on a consensus of what functionalty to implement for our next scrum meeting.
+We will delegate sections of the proposal and discuss further implementations for the next session that we attend.
+
+Week 2
+Group discussed the functionality of our stock app. We delegated sections for each member to draft in preparation for our next tutorial (since its the last
+tutorial before proprosal submission date). Created the repo for github. 
+Non-technical obstacles: team does not have a lot of knowledge on stocks in general; need to do more research on this part.
+Pending application name and finalisation of user stories to put in jira scrums. Draft of the proposal to be completed by the end of this week.
+Plans for next week: starting the first sprint.
+
+Week 3
+We started our weekly meetings with standups, to discuss the progress of our proposal. We finished our proposal on the sunday.
+For my part, I completed the storyboards and user flow part of the proposal. 
+However, we faced difficulties brainstorming ideas to make the novel features more advanced. 
+
+Week 4
+Implemented a navigation bar to be used on all pages of the website.
+To be implemented: tabbing / non-tabbing of the different portfolios.
+Challenge: finding a way to implement the graph of our page. Struggle to concurrently connect front and backend together. 
+
+Week 5
+- Tabbing of portfolios done
+- Presented our milestone this week
+- implemented the connection between front and backen
+- todo: fix bugs in loading stuff and names popping out of nowhere
+
+Week 6
+- refactored frontend code 
+- fixed refreshing bug with the tabs and rename not changing (from week 5) 
+- todo: finish sprint 1 before mid week 7 so we can start on sprint 2 
+
+
+Week 7
+- refactored more frontend code/ fixed bug issues with the delete portfolio function
+- implemented code for the search bar of the page (located in Navigation.jsx)
+- met up on the 31st Oct Sunday (all attended) to discuss progress 
+- hurdle: alphavantage limited my api calls and i couldnt progress further in the project
+
+https://docs.google.com/spreadsheets/d/1hG8RZ1Ro2hDwdxfXpbjSRR4y3m_wu6FnxI3CKeX-dEg/edit?usp=sharing
+Week 8
+- TODO: complete milestone 2 before starting 3. Alternatively, implement the frontend for 3 first then go back to continue 2. 
+- Standup: Mison and Jonathon absent from mid-weekly standup; made google sheets for further progress tracking (above link)
+- done: 
+  - refactored Mison's part from milestone 2, reformatted some page layouts
+  - fixed visibility on component change (AddStock)
+  - fixed the search bar to livesearch ( challenge: laggy cos the list is really big)
+
+Week 9 
+- start of week standup: we delegated work for the report. (Mison absent).
+- midweek standup:  
+- DONE:
+  - put every api call into try/catch wrapper
+  - US 2.4: multistocks ported on the page
+  - US 5.1: done 
+- CHALLENGES:
+  - completion of backend before doing frontend
+- TODO:
+  - port the performance graphs
+  - final report, commenting code, encapsulating code 
+  - styling uniformity 
+
